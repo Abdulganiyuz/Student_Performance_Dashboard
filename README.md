@@ -107,3 +107,6 @@ https://github.com/Abdulganiyuz
 ## 📊 Dashboard Preview
 
 ![Student Performance Dashboard](assets/dashboard.png)
+## 🚀 Live Demo
+
+https://studentperformancedashboard-gdpz56s8szvbyj7bkw3jpq.streamlit.app
