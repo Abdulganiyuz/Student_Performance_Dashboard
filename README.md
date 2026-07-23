@@ -80,7 +80,7 @@ streamlit run app.py
 
 ## 📊 Dashboard Preview
 
-*A screenshot of the dashboard will be added here.*
+![Student Performance Dashboard](assets/dashboard.png)
 
 ---
 
@@ -102,3 +102,8 @@ AI Engineering Student | Python | Data Analytics | Streamlit | Git & GitHub
 
 GitHub:
 https://github.com/Abdulganiyuz
+---
+
+## 📊 Dashboard Preview
+
+![Student Performance Dashboard](assets/dashboard.png)
